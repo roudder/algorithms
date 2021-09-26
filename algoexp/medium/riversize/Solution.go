@@ -1,5 +1,6 @@
 package main
 
+//todo add visited [][]bool
 import "fmt"
 
 func RiverSizes(matrix [][]int) []int {
